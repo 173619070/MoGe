@@ -423,3 +423,6 @@ FodyWeavers.xsd
 /tmp
 /tensorboard
 /wandb
+/test_output
+/test_cli_output
+/output
